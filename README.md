@@ -6,6 +6,7 @@
 - 👯 I’m looking to collaborate as full stack developer
 - 🤔 I’m looking for help with back-end
 - 📫 How to reach me: tk_clever.junior@outlook.com
+- ⚡ Fun fact: Yes, my name is Clever :)
 
 <hr>
 <h3 align="center">Connect with me:</h3>

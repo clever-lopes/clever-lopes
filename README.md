@@ -1,6 +1,7 @@
 ### Hi 👋 I'm Clever Lopes
 
-- 🔭 I’m currently working on Trybe
+- 🔭 I’m currently full-stack web development student on Trybe:
+   The program has more than 1,500 hours of classes and an introduction to software development, front-end, back-end, computer science, software engineering, agile methodologies and skill behavioral.
 - 🌱 I’m currently learning Node.js and Expressjs.
 - 👯 I’m looking to collaborate as full stack developer
 - 🤔 I’m looking for help with back-end

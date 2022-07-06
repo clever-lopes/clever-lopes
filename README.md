@@ -1,4 +1,4 @@
-### Hi 👋 I'm Clever Lopes Full Stack deve
+### Hi 👋 I'm Clever Lopes
 
 - 🔭 I’m currently working on Trybe
 - 🌱 I’m currently learning Node.js and Express.

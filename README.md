@@ -4,7 +4,7 @@
 
 <img align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="300px"/>
 
-<a href="https://www.linkedin.com/in/clever-lopes/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="tkclever.junior@gmail.com"><img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a> <a href="https://contate.me/clever-junior"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/clever-lopes/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://contate.me/clever-junior"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a><a href="tkclever.junior@gmail.com"> <img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a> 
 
 - 🏠 I live in Manaus, capital of Amazonas in Brazil
 - 🔭 I’m currently full-stack web development student on Trybe

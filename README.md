@@ -10,6 +10,7 @@
 - 🔭 I’m currently full-stack web development student on Trybe
 - 🌱 I’m currently learning Node.js and Expressjs.
 - 💬 Ask me about development, technology, hardware and education
+- 👾 Hobbies: Play online games, chess and programming
 - ⚡ Fun fact: Yes, my name is Clever :)
 
 ### Languages:

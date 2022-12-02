@@ -8,7 +8,7 @@
 
 - 🏠 I live in Manaus, capital of Amazonas in Brazil
 - 🔭 I’m currently full-stack web development student on Trybe
-- 🌱 I’m currently learning Typescript and Mongodb.
+- 🌱 I’m currently learning GraphQL and Mongodb.
 - 💬 Ask me about development, technology, hardware and education
 - 👾 Hobbies: Play online games, chess and programming
 - ⚡ Fun fact: Yes, my name is Clever :)

@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **Nextjs | Angular | GraphQL**
 
-- 👨‍💻 All of my projects are available at https://github.com/clever-junior?tab=repositories
+- 👨‍💻 All of my projects are available at [my repositories](https://github.com/clever-junior?tab=repositories)
 
 - 💬 Ask me about **development | chess | technology**
 

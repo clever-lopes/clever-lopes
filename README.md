@@ -26,7 +26,7 @@
 
 - 👾 My Hobbies is **Play online games, chess and programming** 
 
-- 📫 How to reach me **tk_clever.junior@outlook.com**
+- 📫 How to reach me [**here**](tk_clever.junior@outlook.com)
 
 - ⚡ Fun fact **Yes, my name is Clever**
 

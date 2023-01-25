@@ -7,7 +7,7 @@
 <p align="left">
  <a href="https://www.linkedin.com/in/clever-lopes/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  <a href="tkclever.junior@gmail.com"> <img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
- <img align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="390px"/>
+ <img align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="300px"/>
 </p>
 
 
@@ -89,9 +89,9 @@
 <hr/>
 
 <p>
-  <img align="left" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=clever-junior&show_icons=true&locale=en&layout=compact" alt="clever-junior" />
+  <img align="left" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=clever-junior&show_icons=true&locale=en&layout=compact" alt="clever-junior" />
   &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=clever-junior&show_icons=true&locale=en" alt="clever-junior" />
+  <img align="center" heigth="180" src="https://github-readme-stats.vercel.app/api?username=clever-junior&show_icons=true&locale=en" alt="clever-junior" />
 </p>
 
 <br/>

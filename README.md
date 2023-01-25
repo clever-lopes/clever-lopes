@@ -89,9 +89,9 @@
 <hr/>
 
 <p>
-  <img align="left" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=clever-junior&show_icons=true&locale=en&layout=compact" alt="clever-junior" />
+  <img align="left" height="167px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=clever-junior&show_icons=true&locale=en&layout=compact" alt="clever-junior" />
   &nbsp;
-  <img align="center" heigth="180" src="https://github-readme-stats.vercel.app/api?username=clever-junior&show_icons=true&locale=en" alt="clever-junior" />
+  <img align="center" heigth="167px" width="400px" src="https://github-readme-stats.vercel.app/api?username=clever-junior&show_icons=true&locale=en" alt="clever-junior" />
 </p>
 
 <br/>

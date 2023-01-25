@@ -91,10 +91,11 @@
 <h3>You can buy me a coffee</h3>
 <a href="https://ko-fi.com/cleverjuniortk" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="kofi"/></a>
 <a href="https://www.buymeacoffee.com/cleverjuniortk" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="buy-me-a-coffee"/></a>
+ 
 <hr/>
 
 <p>
-  <img align="left" height="167px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=clever-junior&show_icons=true&locale=en&layout=compact" alt="clever-junior" />
+  <img align="center" height="167px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=clever-junior&show_icons=true&locale=en&layout=compact" alt="clever-junior" />
   &nbsp;
   <img align="center" heigth="167px" width="400px" src="https://github-readme-stats.vercel.app/api?username=clever-junior&show_icons=true&locale=en" alt="clever-junior" />
 </p>

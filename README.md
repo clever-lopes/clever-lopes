@@ -18,7 +18,7 @@
 
 - 🏠 I live in **Manaus, capital of Amazonas in Brazil**
 
-- 🌱 I’m currently learning **Nextjs | Angular | GraphQL**
+- 🌱 I’m currently learning **Python | Angular | GraphQL**
 
 - 👨‍💻 All of my projects are available at [my repositories](https://github.com/clever-junior?tab=repositories)
 

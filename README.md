@@ -18,7 +18,7 @@
 
 - 🏠 I live in **Manaus, capital of Amazonas in Brazil**
 
-- 🌱 I’m currently learning **Python | NextJs | tRPC**
+- 🌱 I’m currently learning **Ruby | Python | NextJs | tRPC**
 
 - 👨‍💻 All of my projects are available at [my repositories](https://github.com/clever-junior?tab=repositories)
 
@@ -210,7 +210,11 @@
      </td>
     </tr>
     <tr>
-      <td></td>
+      <td>
+        <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
+          <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"/>
+        </a>
+     </td>
       <td>
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"
           ><img

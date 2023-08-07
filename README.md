@@ -43,7 +43,7 @@
       <th>Devops</th>
       <th>Database</th>
       <th>Tests</th>
-      <th>BaaS</th>
+      <th>PaaS</th>
     </tr>
   </thead>
   <tbody>
@@ -162,16 +162,6 @@
             alt="mochajs"
         /></a>
       </td>
-      <td>
-        <a
-          href="https://firebase.google.com/docs?gclid=CjwKCAiAoL6eBhA3EiwAXDom5r3l3dj5PX6DBWApziibVt3xxwxhNXDbBCF1nna2RzsEFYLv07xLGhoCOw0QAvD_BwE&gclsrc=aw.ds"
-          target="_blank"
-          rel="noreferrer"
-          ><img
-            src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"
-            alt="firebase"
-        /></a>
-      </td>
     </tr>
     <tr>
       <td>
@@ -189,13 +179,6 @@
             alt="bootstrap"
           />
         </a>
-      </td>
-      <td>
-        <a href="https://graphql.org/" target="_blank" rel="noreferrer"
-          ><img
-            src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"
-            alt="graphql"
-        /></a>
       </td>
       <td></td>
       <td>

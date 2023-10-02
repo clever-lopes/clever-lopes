@@ -18,7 +18,7 @@
 
 - 🏠 I live in **Manaus, capital of Amazonas in Brazil**
 
-- 🌱 I’m currently learning **Ruby on Rails | NextJs**
+- 🌱 I’m currently learning **NextJs**
 
 - 👨‍💻 All of my projects are available at [my repositories](https://github.com/clever-junior?tab=repositories)
 

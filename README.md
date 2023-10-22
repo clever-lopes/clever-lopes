@@ -1,6 +1,6 @@
 ### Hi 👋 I'm [Clever Lopes](https://clever-junior.github.io) <img align="right" src="https://komarev.com/ghpvc/?username=clever-junior&label=Profile%20views&color=0e75b6&style=flat" alt="clever-junior" /> 
 
-<h3 align="center">A passionate fullstack web developer from Brazil</h3>
+<h3 align="center">A passionate software engineer from Brazil</h3>
 
 ### Connect with me
 

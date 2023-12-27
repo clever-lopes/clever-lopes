@@ -14,7 +14,7 @@
 
 ### About me
 
-- 🔭 I’m currently working on [my portfolio](https://clever-junior.github.io/)
+- 🔭 I’m currently working on [Criative Photo Copy](https://criativephotocopy.com.br)
 
 - 🏠 I live in **Manaus, capital of Amazonas in Brazil**
 

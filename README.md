@@ -219,16 +219,6 @@
     <tr>
       <td></td>
       <td>
-        <a href="https://redux.js.org/" target="_blank" rel="noreferrer"
-          ><img
-            src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"
-            alt="redux"
-        /></a>
-      </td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>
         <a href="https://nextjs.org/" target="_blank" rel="noreferrer"
           ><img
             src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"

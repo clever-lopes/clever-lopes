@@ -14,7 +14,7 @@
 
 ### About me
 
-- 🔭 I’m currently working on [Criative Photo Copy](https://criativephotocopy.com.br)
+- 🔭 I’m currently working on [Criative Photo Copy](https://criativephotocopy.lojavirtualnuvem.com.br/)
 
 - 🏠 I live in **Manaus, capital of Amazonas in Brazil**
 

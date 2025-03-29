@@ -14,11 +14,11 @@
 
 ### About me
 
-- 🔭 I’m currently working on [Criative Photo Copy](https://criativephotocopy.lojavirtualnuvem.com.br/)
+- 🔭 I’m currently searching for opportunities.
 
-- 🏠 I live in **Manaus, capital of Amazonas in Brazil**
+- 🏠 I live in **Curitiba, capital of Paraná in Brazil**
 
-- 🌱 I’m currently learning **Angular, Rails**
+- 🌱 I’m currently learning **Rust, NextJs**
 
 - 👨‍💻 All of my projects are available at [my repositories](https://github.com/clever-junior?tab=repositories)
 

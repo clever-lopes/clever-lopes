@@ -14,7 +14,7 @@
 
 ### About me
 
-- 🔭 I’m currently searching for opportunities.
+- 🔭 I’m work as Frontend developer at VCodes.
 
 - 🏠 I live in **Curitiba, capital of Paraná in Brazil**
 

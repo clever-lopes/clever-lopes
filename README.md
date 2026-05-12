@@ -14,11 +14,11 @@
 
 ### About me
 
-- 🔭 I’m work as Frontend developer at VCodes.
+- 🔭 I’m work as FullStack Typescript developer at [Quantum Tech Ventures](https://qtvgroup.com/).
 
 - 🏠 I live in **Curitiba, capital of Paraná in Brazil**
 
-- 🌱 I’m currently learning **Rust, NextJs**
+- 🌱 I’m currently learning **Golang, A.I agents**
 
 - 👨‍💻 All of my projects are available at [my repositories](https://github.com/clever-junior?tab=repositories)
 

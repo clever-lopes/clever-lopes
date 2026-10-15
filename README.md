@@ -4,11 +4,11 @@
   <!-- linkedin e microsoft-outlook nao existem mais no Simple Icons: os slugs saem sem icone, entao os badges sao so texto de proposito -->
   <a href="https://www.linkedin.com/in/clever-lopes/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" /></a>
   <a href="mailto:tk_clever.junior@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge" /></a>
-  <a href="https://clever-lopes.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-222222?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://cleverlopes.com"><img alt="Website" src="https://img.shields.io/badge/Website-222222?style=for-the-badge&logo=github&logoColor=white" /></a>
   <img align="right" src="https://komarev.com/ghpvc/?username=clever-lopes&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-**Fullstack TypeScript engineer** at [Quantum Tech Ventures](https://qtvgroup.com/), building products for the financial market.
+**Fullstack TypeScript engineer** at [Quantum Tech Ventures](https://qtvholding.com), building products for the financial market.
 
 I work across the whole product, not just the code. Architecture, UX and business constraints are part of the job, and I ship end to end.
 
